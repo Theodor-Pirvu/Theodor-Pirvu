@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Rust**
 
-- 👨‍💻 All of my projects are available at [theodor-pirvu.github.io](theodor-pirvu.github.io)
-
 - 💬 Ask me about **OpenCV**
 
 - 📫 How to reach me **pirvutheodor@gmail.com**
