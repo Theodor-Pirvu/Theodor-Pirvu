@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Theodor Pirvu</h1>
 <h3 align="center">A student who enjoys to study CS and mathematics.</h3>
 
-- 🔭 I’m currently working on **OOP Frameworks**
+- 🔭 I’m currently working on **Discrete Math**
 
-- 🌱 I’m currently learning **Applied algorithms/mathematics**
+- 🌱 I’m currently learning **Applied algorithms and Mathematics**
 
 - 👯 I’m looking to collaborate on **Java**
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **OpenCV**
 
 - 📫 How to reach me **pirvutheodor@gmail.com**
-
-- ⚡ Fun fact **I enjoy studying math a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
