@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Theodor Pirvu</h1>
 <h3 align="center">A student who enjoys to study CS and mathematics.</h3>
 
-- 🔭 I’m currently working on **Discrete Math**
+- 🔭 I’m currently working on **Backend**
 
 - 🌱 I’m currently learning **Applied algorithms and Mathematics**
 
-- 👯 I’m looking to collaborate on **Java**
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 🤝 I’m looking for help with **Rust**
 
