@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **Applied algorithms and Mathematics**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
