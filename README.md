@@ -17,4 +17,4 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theodor-pirvu&show_icons=true&locale=en" alt="theodor-pirvu" /></p>
+<!--> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theodor-pirvu&show_icons=true&locale=en" alt="theodor-pirvu" /></p>
