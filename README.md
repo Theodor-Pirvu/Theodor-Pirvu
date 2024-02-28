@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Theodor Pirvu</h1>
+<h1 align="center">Hi, I'm Theodor Pirvu</h1>
 <h3 align="center">A student who enjoys to study CS and mathematics.</h3>
 
 - 🌱 I’m currently learning **Android App Development**
