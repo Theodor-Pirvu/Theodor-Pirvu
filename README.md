@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Theodor Pirvu</h1>
 
-- 😎 I'm a student who _enjoys_ to study dsa
+- 😎 I'm a student who _"enjoys"_ to study dsa
  
 - 🌱 I’m currently learning Android App Development
 
