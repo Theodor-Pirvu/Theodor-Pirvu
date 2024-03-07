@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Theodor Pirvu</h1>
-<h3 align="center">A student who enjoys to study CS and mathematics.</h3>
+<h3 align="center">A student who **_enjoys_** to study dsa</h3>
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning Android App Development
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on Web Development
 
-- 💬 Ask me about **OpenCV && Java**
+- 💬 Ask me about OpenCV && Java
 
 - 📫 How to reach me **pirvutheodor@gmail.com**
 <!--
