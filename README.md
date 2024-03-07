@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Theodor Pirvu</h1>
-<h3 align="center">A student who **_enjoys_** to study dsa</h3>
+<h3 align="center">A student who **t_enjoys_t** to study dsa</h3>
 
 - 🌱 I’m currently learning Android App Development
 
